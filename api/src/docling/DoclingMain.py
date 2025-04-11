@@ -7,10 +7,6 @@ import logging
 from util.FileUtil import FileUtil
 from util.ConfigUtil import ConfigUtil
 
-
-
-import requests
-
 class DoclingMain(object):
 
     def __init__(

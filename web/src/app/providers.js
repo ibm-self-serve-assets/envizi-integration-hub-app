@@ -7,11 +7,9 @@ import {
   SideNavLink,
   SideNavMenu,
   SideNavMenuItem,
-} from 'carbon-components-react';
-import { Menu32 } from '@carbon/icons-react';
+} from '@carbon/react';
 import React, { useState } from 'react';
 
-import { Dashboard32, List32, Settings32 } from '@carbon/icons-react';
 import AppHeader from '@/components/AppHeader/AppHeader';
 import LoginPage from './login/LoginPage';
 

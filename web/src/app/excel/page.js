@@ -2,7 +2,7 @@
 import React, { Component } from 'react';
 
 import { Tabs, Tab, TabList, TabPanels, TabPanel } from '@carbon/react';
-import { Loading, Button, Grid, Column } from 'carbon-components-react';
+import { Loading, Button, Grid, Column } from '@carbon/react';
 
 import axios from 'axios';
 

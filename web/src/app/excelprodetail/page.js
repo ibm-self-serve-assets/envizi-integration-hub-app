@@ -18,7 +18,7 @@ import {
   Row,
   Column,
   Dropdown,
-} from 'carbon-components-react';
+} from '@carbon/react';
 import {
   Table,
   TableHead,

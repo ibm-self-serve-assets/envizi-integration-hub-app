@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-docker logs my-e-int-hub
+docker logs my-e-int-hub3
 

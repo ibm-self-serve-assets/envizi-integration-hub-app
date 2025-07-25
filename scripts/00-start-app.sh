@@ -20,4 +20,12 @@ source myvenv-hub/bin/activate
 
 python api/src/main.py
 
+
+####################################
+
+cd /Users/gandhi/GandhiMain/700-Apps/envizi-integration-hub-app/web
+yarn run dev
+
+####################################
+
 echo "app completed ...."

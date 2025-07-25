@@ -2,7 +2,7 @@
 
 echo "build Started ...."
 
-DOCKER_IMAGE=gandigit/e-int-hub2
+DOCKER_IMAGE=gandigit/e-int-hub3
 
 cd ../api
 

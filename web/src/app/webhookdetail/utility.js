@@ -18,7 +18,7 @@ import {
   Row,
   Column,
   Dropdown,
-} from 'carbon-components-react';
+} from '@carbon/react';
 import {
   Table,
   TableHead,
@@ -43,7 +43,7 @@ class MyUtility {
       name: '',
       desc: '',
       http_method_list: this.getHttpMethod_List(),
-      http_method : '',
+      http_method: '',
       url: '',
       user: '',
       password: '',
@@ -118,7 +118,6 @@ class MyUtility {
   getEnvizi_Template_List = () => {
     return ['POC', 'ASDL-PMC'];
   };
-
 
   getWebhook_Data_Template_Type_List = () => {
     return ['1-single', '2-multiple', '3-multiple-and-common'];

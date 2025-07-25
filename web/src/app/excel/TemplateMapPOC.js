@@ -2,9 +2,9 @@
 
 import React, { Component } from 'react';
 
-import { TextInput, Button } from 'carbon-components-react';
+import { TextInput, Button } from '@carbon/react';
 
-import { Dropdown } from 'carbon-components-react';
+import { Dropdown } from '@carbon/react';
 
 import '../../components/css/common.css'; // Import the CSS file for styling
 

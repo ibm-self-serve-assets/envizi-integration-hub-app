@@ -1,13 +1,7 @@
 // src/LoginForm.js
 import React, { Component } from 'react';
 
-import {
-  Button,
-  TextInput,
-  Loading,
-  Grid,
-  Column,
-} from 'carbon-components-react';
+import { Button, TextInput, Loading, Grid, Column } from '@carbon/react';
 import axios from 'axios';
 import EnvUtility from '../../components/EnvUtility/EnvUtility';
 

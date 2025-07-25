@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-echo "build Started ...."
+echo "push Started ...."
 
-DOCKER_IMAGE=gandigit/e-int-hub2-ui
+DOCKER_IMAGE=gandigit/e-int-hub3-ui
 
 cd ../api
 
@@ -10,7 +10,6 @@ cd ../api
 podman push $DOCKER_IMAGE-linux:latest
 
 # ### Mac
-# podman build -f Dockerfile -t$DOCKER_IMAGE-mac:latest .
 # podman push $DOCKER_IMAGE-mac:latest
 
-echo "build completed ...."
+echo "push completed ...."

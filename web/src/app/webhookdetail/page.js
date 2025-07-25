@@ -27,7 +27,7 @@ import {
   NumberInput,
   Checkbox,
   Toggle,
-} from 'carbon-components-react';
+} from '@carbon/react';
 import {
   Table,
   TableHead,
@@ -37,7 +37,8 @@ import {
   TableCell,
   Link,
 } from '@carbon/react';
-import 'carbon-components/css/carbon-components.min.css';
+// import '@carbon/react/styles.css';
+
 import DataTable from '../../components/DataTable/DataTable';
 
 import axios from 'axios';

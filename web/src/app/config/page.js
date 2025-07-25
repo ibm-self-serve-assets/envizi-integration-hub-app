@@ -11,14 +11,7 @@ import {
   TabPanels,
   TabPanel,
 } from '@carbon/react';
-import {
-  Loading,
-  TextInput,
-  Button,
-  Grid,
-  Row,
-  Column,
-} from 'carbon-components-react';
+import { Loading, TextInput, Button, Grid, Row, Column } from '@carbon/react';
 
 import axios from 'axios';
 

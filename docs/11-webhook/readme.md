@@ -48,6 +48,42 @@ Here is the mapping details explained.
 
 <img src="images/data1.png">
 
+#### Envizi data
+
+<img src="images/sample1-out.png">
+
+### 5.2 Type 2
+
+#### Data
+
+<img src="images/data2.png">
+
+#### Envizi data
+
+<img src="images/sample2-out.png">
+
+### 5.3 Type 3
+
+#### Data
+
+<img src="images/data3.png">
+
+#### Envizi data
+
+<img src="images/sample3-out.png">
+
+
+## 6. Webhook Data Types with mappings
+
+<details><summary>CLICK ME</summary>
+
+
+### 6.1 Type 1
+
+#### Data
+
+<img src="images/data1.png">
+
 #### Mapping
 
 <img src="images/mapping1.png">
@@ -56,7 +92,7 @@ Here is the mapping details explained.
 
 <img src="images/sample1-out.png">
 
-### 5.2 Type 2
+### 6.2 Type 2
 
 #### Data
 
@@ -70,7 +106,7 @@ Here is the mapping details explained.
 
 <img src="images/sample2-out.png">
 
-### 5.3 Type 3
+### 6.3 Type 3
 
 #### Data
 
@@ -84,3 +120,5 @@ Here is the mapping details explained.
 
 <img src="images/sample3-out.png">
 
+
+</details>
